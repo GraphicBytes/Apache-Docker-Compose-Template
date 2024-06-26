@@ -1,4 +1,4 @@
-# APACHE ONLY DOCKER COMPOSE TEMPLATE # #
+# APACHE ONLY DOCKER COMPOSE TEMPLATE #
 
 ### What is this repository for? ###
 
