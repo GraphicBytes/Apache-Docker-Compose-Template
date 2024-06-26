@@ -3,8 +3,7 @@
 while true; do
   clear
   echo "############################"
-  echo " "
-  echo "      THE BODACH SHOW"
+  echo " " 
   echo "        SHELL TOOLS"
   echo " "
   echo "############################"
