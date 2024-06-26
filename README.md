@@ -26,7 +26,7 @@ This is a useful copy and paste scratch pad to use while developing
 
 **Development and production**
 
-Via the command line, goto the root directory of the repo and use the command **"sh tool.sh"** to build or rebuild the docker container, this will also update the environment.
+Via the command line, goto the root directory of the repo and use the command **"sh tools.sh"** to build or rebuild the docker container, this will also update the environment.
 
 ### Nginx reverse proxy, SSL and DNS setup ###
 
